@@ -1,2 +1,2 @@
 @echo off
-python battery_alert.py
+py battery_alert.py
